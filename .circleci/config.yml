@@ -170,4 +170,26 @@ workflows:
           requires: [test-and-build-backend, scan-backend]      
       - deploy-frontend-and-backend:
           requires: [test-and-build-frontend, scan-frontend, test-and-build-backend, scan-backend]
-      
+
+
+
+
+
+
+
+
+
+
+
+
+lonely done here
+
+
+
+
+
+
+
+
+
+
